@@ -18,4 +18,4 @@ gpio 5 为 rst，连接到到读卡器 rst。
 目前支持了永新同方卡的模拟。长时间观看会出现不稳定现象，原因未知。
 想折腾的可以添加其它卡支持。
 
-Use o GPIO do esp8266 para simular um cartao enquandto executa um oscam
+Use o GPIO do esp8266 para simular um cartao enquanto executa um oscam
